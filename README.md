@@ -6,4 +6,4 @@ Finally, I wrote a python script using simple python modules and this script wil
 
 Spreading this as much as possible, as it might help  in booking a slot for loved ones. And soon, India can become a covid free nation.
 # API Link - https://apisetu.gov.in/public/api/cowin
-Here you can get request APIs for your particular state and district
+Here you can get request APIs as well as district and state Id of your particular state and district
