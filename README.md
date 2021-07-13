@@ -1,4 +1,4 @@
-# slots-availability-notification-app-on-desktop
+# Covid19 vaccine slots-availability-notification-app-on-desktop
 # A desktop notification app notifying the number and type  of vaccine available and location of the slots in your own district
 I have been facing  lots of issues while finding the vaccine slot for me and my relatives. I couldn't find an empty slot and this made me to write a python script for the same
 
